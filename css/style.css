@@ -15,6 +15,7 @@ body {
 #js-playerPickElement button {
   margin: 60px 10px;
 }
+
 #js-playerPickElement button .badge {
   font-size: 35px;
 }
@@ -22,9 +23,11 @@ body {
 #js-resultsTableElement {
   font-size: 20px;
 }
+
 #js-resultsTableElement span {
   margin: 20px 0;
 }
+
 #js-resultsTableElement .badge {
   font-size: 30px;
   width: 50px;
@@ -32,4 +35,9 @@ body {
   padding-top: 10px;
 }
 
+#js-playerResult,
+#js-computerResult {
+  font-size: 2em;
+  color: goldenrod;
+}
 /*# sourceMappingURL=style.css.map */
